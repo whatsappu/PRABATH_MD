@@ -22,7 +22,7 @@ module.exports = {
   alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
   alivemsj: process.env.ALIVE_MSJ || '*The bot developer is Arosh* 🎊',
   ownername:process.env.OWNER_NAME || '𝐀𝐑𝐎𝐒𝐇',
-  sessionName: process.env.SESSION_ID || 'PRABATH-MD::UFJBQkFUSC1NRDo6c2Vzc2lvbl9yYV8zMzBlM2YwZGY2ZTdiX3ZpOjpDZWlsaW5nc0lyYXFpCjo6MTc0YjU1NDQyMzdkMzUxODk3NjcwZDg5YTc2MA==',
+  sessionName: process.env.SESSION_ID || 'PRABATH-MD::UFJBQkFUSC1NRDo6c2Vzc2lvbl9yYV80YWFhNTY2MzRmNWE4OF92aTo6RWxldmVuQ2xpbnRvbgo6OjFiZmY4YmQ5ZDY2ZGFhMTZjYzExNzRlMmFkMQ==',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
   packname: process.env.PACK_INFO.split(";")[1] || 'Name',
@@ -39,7 +39,7 @@ module.exports = {
   antilinkaction: process.env.ANTILINK_ACTION || 'remove',
   BRANCH: 'main',
   ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || 'Hi.....i am Mr.Arosh Boy 😼',
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || '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',
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
   LANG: process.env.THEME|| 'AROSH-BOT',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
